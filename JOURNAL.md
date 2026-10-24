@@ -48,7 +48,11 @@ This was me around 45-50 mins in
 ![final schematic](https://halflife.hackclub-assets.com/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/13b1ea29357ff57479176967cd2760ba360d565391f556a7ec2b18490c239129.png)
 
 After this I added in the rest of my components ( the level shifter (as input is 3.3 V and the LED'S require 5V of power), the connector pins for the LED's, The amplifier module and the speaker)
-This took around 20 mins and I was done around an hour and 30 minutes in THEN WHY IS THIS ENTRY 2 HOURS YA MAY ASK, well the reason for that is the imported symbol was for some reason slightly off, which kept resulting in
+This took around 20 mins and I was done around an hour and 30 minutes in , following this I ran the ERC(?) rules checker, some of these errors were corrected by making the speaker a passive component (editing footprint) and also fixing a typo ("Piezo 2 in" to "Piezo2 in") . The other errors are directly connected to the chaos covered below
+
+![errors](https://halflife.hackclub-assets.com/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/814ed95c60b5ad03860afd97f9942fa06c2755607607368a698835cd408a5de8.png)
+
+THEN WHY IS THIS ENTRY 2 HOURS YA MAY ASK, well the reason for that is the imported symbol was for some reason slightly off, which kept resulting in
 
 ![1000163419](https://halflife.hackclub-assets.com/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/0ddaea3f2febef4f869bd01e27078fde9daf43642d41f6c143ba4d9dbb3d31cc.jpg)
 
