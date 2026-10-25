@@ -114,6 +114,8 @@ I ran a DRC found no major errors except a fairly simple connection and was abou
 
 this mess.....I will fix it tomorrow and start with the firmware.
 
+tldr- minor hiccups aside my pcb routing was going suspiciously well till I noticed...missing components and realised my footprint did not match my symbol, despite both being ESP32 C3 supermini which wel- lets just say was not ideal
+
 [Timelapse](https://lookout.hackclub.com/api/media/fc43d4aa-1962-47a6-96eb-93b76c62c3d5/video.mp4)
 
 ### 2026-10-25 – I fixed my footprint by moving stuff around A LOT- I was so terrified of having to rewire my entire PCB when I realised heyy I can just move components around in groups (since I have a vague idea of w
