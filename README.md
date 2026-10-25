@@ -5,6 +5,7 @@ Welcome to the land of music and dreams (hopefully not nightmares). Here you see
 <img width="446" height="342" alt="back final" src="https://github.com/user-attachments/assets/21901a30-afb5-4a0a-8942-fdbdaab3770b" />
 (note: the colour can be selected/altered on the pcb manufacturer's app)
 
+
 #Basic functioning
 
 The drum pad detects when it is hit using Piezo discs which are basically small discs that can measure changes in pressure or vibration through the piezoelectric effect. When you strike the pad the force flexes the internal ceramic element inside the piezo disc creating an electrical signal. This is used to sense when it is hit and also the intensity of the hit through the vibrations caused on impact.
