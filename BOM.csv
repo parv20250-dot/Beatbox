@@ -1,7 +1,7 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 pcb,1,jlcpcb,$1.50,$1.50,https://jlcpcb.com/
 ESP-32-C3 Supermini,1,Ali Express,$4.80,$4.80,https://a.aliexpress.com/_EvaAqpy
-Max 98357A,1,Ali Express,$0.00,$0.00,https://a.aliexpress.com/_EHFUNMI
+Max 98357A,1,Ali Express,$3.70,$3.70,https://a.aliexpress.com/_EHFUNMI
 10k ohm resistors,1,electro:kit,$0.00,$0.00,https://www.electrokit.com/motstand-kolfilm-0.25w-10kohm-10k
 1M resistors,1,electro:kit,$0.00,$0.00,https://www.electrokit.com/motstand-kolfilm-0.25w-1mohm-1m
 Piezo discs (20mm),4,electro:kit,$0.00,$0.00,https://www.electrokit.com/piezoelement-20mm
