@@ -168,6 +168,6 @@ update- added back silkscreen decided to reverify price once just in case
 
 **0.87h**
 
-Okay so I did some work on my firmware I found and downloaded the music notes when I noticed a problem they all had different sound rates, some of them were stereo instead of mono (played from two output units left/right instead of one), which did not work with my current speaker. Now this could have been ignored however, it makes my code longer aka more space which is badd cuz I'm alr stretching it with my audio files (I'm not sure how much of the ESP's 4MB is available for programming and stuff and google got me nowehere).++ in stereo mode the code for EACH sound was 5000+ lines long which wel...isn't ideal . I had to get a
+Okay so I did some work on my firmware I found and downloaded the music notes when I noticed a problem they all had different sound rates, some of them were stereo instead of mono (played from two output units left/right instead of one), which did not work with my current speaker. Now this could have been ignored however, it makes my code longer aka more space which is badd cuz I'm alr stretching it with my audio files (I'm not sure how much of the ESP's 4MB is available for programming and stuff and google got me nowehere).++ in stereo mode the code for EACH sound was 5000+ lines long which wel...isn't ideal . I had to get a music editing app and alter some properties such that the files were mostly uniform ++ i cut silent bits.
 
 [Timelapse](https://lookout.hackclub.com/api/media/63346999-91f0-41c4-aaaf-55f7e3a7b38a/video.mp4)
