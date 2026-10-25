@@ -20,7 +20,7 @@
 4. [2026-10-25 – I fixed my footprint by moving stuff around A LOT- I was so terrified of having to rewire my entire PCB when I realised heyy I can just move components around in groups (since I have a vague idea of w](#2026-10-25-i-fixed-my-footprint-by-moving-stuff-around-a-lot)
 5. [2026-10-25 – Basically what the title says I added some silkscreen art and moved stuff around such that everything was aligned properly (I'm lowk OCD so getting the music notes randomised was a CHALLENGE), after t](#2026-10-25-basically-what-the-title-says-i-added-some-silksc)
 6. [2026-10-25 – Okay so I did some work on my firmware I found and downloaded the music notes when I noticed a problem they all had different sound rates, some of them were stereo instead of mono (played from two out](#2026-10-25-okay-so-i-did-some-work-on-my-firmware-i-found-an)
-7. [2026-10-25 – Finally did the part that I was STALLING on the firmware, took some tweaking to get hackatime to work, however I did it I was hoping that my previous experience with Starbie 8Sunbie) would help and I](#2026-10-25-finally-did-the-part-that-i-was-stalling-on-the-f)
+7. [2026-10-25 – Finally did the part that I was STALLING on the firmware, took some tweaking to get hackatime to work, however I did it I was hoping that my previous experience with Starbie (Sunbie) would help and I](#2026-10-25-finally-did-the-part-that-i-was-stalling-on-the-f)
 
 ## Design
 
@@ -179,11 +179,11 @@ Okay so I did some work on my firmware I found and downloaded the music notes wh
 
 [Timelapse](https://lookout.hackclub.com/api/media/63346999-91f0-41c4-aaaf-55f7e3a7b38a/video.mp4)
 
-### 2026-10-25 – Finally did the part that I was STALLING on the firmware, took some tweaking to get hackatime to work, however I did it I was hoping that my previous experience with Starbie 8Sunbie) would help and I
+### 2026-10-25 – Finally did the part that I was STALLING on the firmware, took some tweaking to get hackatime to work, however I did it I was hoping that my previous experience with Starbie (Sunbie) would help and I
 
 **0.75h**
 
-Finally did the part that I was STALLING on the firmware, took some tweaking to get hackatime to work, however I did it I was hoping that my previous experience with Starbie 8Sunbie) would help and I was cruise through the project apparently not.....the struggle that ensued shall remain between me, the gods, google and gemini, I honestly struggled with the 4 hit special effect logic and also with the lighting, the code being VERY VERY hard to sift through in order to try find a variable or something I created earlier did not help. However, I think I have done a code or something that resembles one anyw. I hope it works.
+Finally did the part that I was STALLING on the firmware, took some tweaking to get hackatime to work, however I did it I was hoping that my previous experience with Starbie (Sunbie) would help and I was cruise through the project apparently not.....the struggle that ensued shall remain between me, the gods, google ,my laptop and gemini, I honestly struggled with the 4 hit special effect logic and also with the lighting, the code being VERY VERY hard to sift through in order to try find a variable or something I created earlier did not help. However, I think I have done a code or something that resembles one anyw. I hope it works.
 
 I did look up/ask ai how to do stuff however, all of the code in my file has once again been typed out by yours truly *bows dramatically.
 
