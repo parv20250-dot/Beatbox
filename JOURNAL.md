@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 5.6h | 6 |
+| Week 3 | Tier 1 | 6.1h | 6 |
 
 ## Contents
 
@@ -140,7 +140,7 @@ tldr- fixed ESP footprint mismatch, then fixed wiring
 
 ### 2026-10-25 – Basically what the title says I added some silkscreen art and moved stuff around such that everything was aligned properly (I'm lowk OCD so getting the music notes randomised was a CHALLENGE), after t
 
-**0.53h**
+**1.03h**
 
 Basically what the title says I added some silkscreen art and moved stuff around such that everything was aligned properly (I'm lowk OCD so getting the music notes randomised was a CHALLENGE), after that I noticed some empty space and decided to add a good vibes only sticker as I felt like that matched the music theme.
 Then i contemplated between two possible options for longer than I'd like to admit (this part is not in the lapse).
@@ -157,6 +157,12 @@ b)idk if b.silkscreen costs more because its on both sides and i was on a budget
 
 update- added back silkscreen decided to reverify price once just in case
 ![b silkscreen](https://halflife.hackclub-assets.com/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/ad444655297d92aaa0a3fc79924c409d80c233c969d069c4bea8981d034c22d0.png)
+
+Also updated my BOM and github
+
+![github](https://halflife.hackclub-assets.com/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/d02257e6df3f427659fb377514c2b1eb77f5ab7b6139859dcfc3acd263b2ede7.png)
+
+![organised files](https://halflife.hackclub-assets.com/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/d2d5b26254651380474c24911f35246389237e2d89dc53acc11f2eb46a29d94f.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/97deda27-60d7-4e8d-a3b0-81084810940f/video.mp4)
 
