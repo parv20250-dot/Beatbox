@@ -6,7 +6,10 @@ Welcome to the land of music and dreams (hopefully not nightmares). Here you see
 (note: the colour can be selected/altered on the pcb manufacturer's app)
 
 #Basic functioning
+
 The drum pad detects when it is hit using Piezo discs which are basically small discs that can measure changes in pressure or vibration through the piezoelectric effect. When you strike the pad the force flexes the internal ceramic element inside the piezo disc creating an electrical signal. This is used to sense when it is hit and also the intensity of the hit through the vibrations caused on impact.
+
+
 This information is send to the ESP-32-C3-Supermini which then computes what sound to play and how loud to play it and sends this information or audio data to the Amplifier module. The amplifier module then converts this information/audio data to playable audio and sends it to the speaker resulting in sound being played. 
 
 There is also protective equipment such as resistors and diodes, which can be observed in the schematic below.
