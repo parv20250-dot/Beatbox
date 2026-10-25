@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 3 | Tier 1 | 4.62h | 5 |
+| Week 3 | Tier 1 | 4.73h | 5 |
 
 ## Contents
 
@@ -139,7 +139,7 @@ tldr- fixed ESP footprint mismatch, then fixed wiring
 
 ### 2026-10-25 – Basically what the title says I added some silkscreen art and moved stuff around such that everything was aligned properly (I'm lowk OCD so getting the music notes randomised was a CHALLENGE), after t
 
-**0.42h**
+**0.53h**
 
 Basically what the title says I added some silkscreen art and moved stuff around such that everything was aligned properly (I'm lowk OCD so getting the music notes randomised was a CHALLENGE), after that I noticed some empty space and decided to add a good vibes only sticker as I felt like that matched the music theme.
 Then i contemplated between two possible options for longer than I'd like to admit (this part is not in the lapse).
@@ -153,6 +153,10 @@ Yes its a minor change in the use of negative space.
 I eventually settled on the first one and was about to add images to the back when I realised
 a) I do not know if the silkscreen prices depend on the intricacy of the design.
 b)idk if b.silkscreen costs more because its on both sides and i was on a budget (with Starbie (Sunbie) I was so new to all this that I was mainly focused on just getting it done). After that I decided to hold off on adding any imagery until I figured this out.
+
+update- added back silkscreen decided to reverify price once just in case
+
+[Timelapse](https://lookout.hackclub.com/api/media/97deda27-60d7-4e8d-a3b0-81084810940f/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/9af4bdd5-14ed-4f46-a338-8011b60eb881/video.mp4)
 
