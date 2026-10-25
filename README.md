@@ -34,8 +34,7 @@ When the Piezo discs are hit in a particular order within a predefined time fram
 
 ## **<ins>FIRMWARE-</ins>**
 
-
-#todo
+The firmware is written in c++ for the ESP-32-C3 and compiled in Arduino. It basically detects inputs from the piezo sensors and uses the intensity of the vibrations of the Piezo buzzer and in turn the hit to trigger drum sound responses through the speaker. It also controls the LED rings and the disc being hit lights up. The code sets different colors for every disc/pad with pad 1 being red, pad 2 being green, pad 3 being blue, pad 4 being orange. The brightness of the LED depends on hit intensity. When 4 of the pads are hit in a particular order (1->2->3->4) it plays special sound within an 8 second time frame). The code also has parts for calibration and checking that all the parts are connected and working properly. The longggg groups of numbers that you see in the code file are audio that have been converted into text format as 16 bit arrays.
 
 ## **<ins> BOM <ins>**
 
