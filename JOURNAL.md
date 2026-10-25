@@ -155,6 +155,7 @@ a) I do not know if the silkscreen prices depend on the intricacy of the design.
 b)idk if b.silkscreen costs more because its on both sides and i was on a budget (with Starbie (Sunbie) I was so new to all this that I was mainly focused on just getting it done). After that I decided to hold off on adding any imagery until I figured this out.
 
 update- added back silkscreen decided to reverify price once just in case
+![b silkscreen](https://halflife.hackclub-assets.com/sessions/SqenJcVsbXusO3XTlgv7F9V5hj45uC1s/ad444655297d92aaa0a3fc79924c409d80c233c969d069c4bea8981d034c22d0.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/97deda27-60d7-4e8d-a3b0-81084810940f/video.mp4)
 
