@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmvetb17p0a4h01rcebfh4ofa). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A drum pad which also lights up
+> A drum pad which detects hits and plays sounds corresponding to the pad which is hit. It also changes the loudness of the sound based on how hard the pads are hit. It also has LED effects and a special sound effect when hit in a particular order.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
