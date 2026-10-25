@@ -1,5 +1,5 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-pcb,1,jlcpcb,$0.00,$0.00,https://jlcpcb.com/
+pcb,1,jlcpcb,$1.50,$1.50,https://jlcpcb.com/
 ESP-32-C3 Suprmini,1,Ali Express,$0.00,$0.00,https://a.aliexpress.com/_EvaAqpy
 Max 98357A,1,Ali Express,$0.00,$0.00,https://a.aliexpress.com/_EHFUNMI
 10k ohm resistors,1,electro:kit,$0.00,$0.00,https://www.electrokit.com/motstand-kolfilm-0.25w-10kohm-10k
