@@ -1,15 +1,16 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-pcb,1,jlcpcb,$1.50,$1.50,https://jlcpcb.com/
-ESP-32-C3 Suprmini,1,Ali Express,$4.80,$4.80,https://a.aliexpress.com/_EvaAqpy
-Max 98357A,1,Ali Express,$3.70,$3.70,https://a.aliexpress.com/_EHFUNMI
-10k ohm resistors,1,electro:kit,$0.10,$0.10,https://www.electrokit.com/motstand-kolfilm-0.25w-10kohm-10k
-1M resistors,1,electro:kit,$0.10,$0.10,https://www.electrokit.com/motstand-kolfilm-0.25w-1mohm-1m
-Piezo discs (20mm),4,electro:kit,$0.45,$1.80,https://www.electrokit.com/piezoelement-20mm
-Miniature Speaker,1,electro:kit,$2.80,$2.80,https://www.electrokit.com/miniatyrhogtalare-8ohm-2w-20x30x6.8mm
-BAT85 DO-35 30V 200mA Diode,1,electro:kit,$1.50,$1.50,https://www.electrokit.com/bat85-do-35-30v-200ma
-74AHCT125N level converter,1,electro:kit,$0.95,$0.95,https://www.electrokit.com/sn74ahct125n-dip-14-quad-buffer
-Electrolytic capacitor 1000uF 6.3V 105C ø8x11.5mm 6000h,1,electro:kit,$0.45,$0.45,https://www.electrokit.com/elektrolytkondensator-1000uf-6.3v-105c-8x11.5mm-6000h
-WS2812 LED,4,Ali Express,$1.85,$7.40,https://a.aliexpress.com/_EvkmW82
-Connecting wire 0.26mm² single-wire - red /m,1,electro:kit,$0.90,$0.90,https://www.electrokit.com/kopplingstrad-0.28mm2-entradig-rod-/m
-Connecting wire 0.5mm² single-wire - black,1,electro:kit,$0.90,$0.90,https://www.electrokit.com/kopplingstrad-awg20-entradig-svart-/m
+pcb,1,jlcpcb,$0.00,$0.00,https://jlcpcb.com/
+ESP-32-C3 Suprmini,1,Ali Express,$0.00,$0.00,https://a.aliexpress.com/_EvaAqpy
+Max 98357A,1,Ali Express,$0.00,$0.00,https://a.aliexpress.com/_EHFUNMI
+10k ohm resistors,1,electro:kit,$0.00,$0.00,https://www.electrokit.com/motstand-kolfilm-0.25w-10kohm-10k
+1M resistors,1,electro:kit,$0.00,$0.00,https://www.electrokit.com/motstand-kolfilm-0.25w-1mohm-1m
+Piezo discs (20mm),4,electro:kit,$0.00,$0.00,https://www.electrokit.com/piezoelement-20mm
+Miniature Speaker,1,electro:kit,$0.00,$0.00,https://www.electrokit.com/miniatyrhogtalare-8ohm-2w-20x30x6.8mm
+BAT85 DO-35 30V 200mA Diode,1,electro:kit,$0.00,$0.00,https://www.electrokit.com/bat85-do-35-30v-200ma
+74AHCT125N level converter,1,electro:kit,$0.00,$0.00,https://www.electrokit.com/sn74ahct125n-dip-14-quad-buffer
+Electrolytic capacitor 1000uF 6.3V 105C ø8x11.5mm 6000h,1,electro:kit,$0.00,$0.00,https://www.electrokit.com/elektrolytkondensator-1000uf-6.3v-105c-8x11.5mm-6000h
+WS2812 LED,4,Ali Express,$0.00,$0.00,https://a.aliexpress.com/_EvkmW82
+Connecting wire 0.26mm² single-wire - red /m,1,electro:kit,$0.00,$0.00,https://www.electrokit.com/kopplingstrad-0.28mm2-entradig-rod-/m
+Connecting wire 0.5mm² single-wire - black,1,electro:kit,$0.00,$0.00,https://www.electrokit.com/kopplingstrad-awg20-entradig-svart-/m
+Estimated total shipping,1,,$0.00,$0.00,
 Estimated total shipping,1,,,$4.90,
